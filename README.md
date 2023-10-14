@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divyansh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
+[![An image of @divyansh14kr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divyansh14kr)](https://holopin.io/@divyansh14kr)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyansh14kr&label=Profile%20views&color=0e75b6&style=flat" alt="divyansh14kr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyansh14kr" alt="divyansh14kr" /></a> </p>
