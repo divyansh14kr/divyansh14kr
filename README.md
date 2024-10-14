@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyansh Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 
 [![An image of @divyansh14kr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divyansh14kr)](https://holopin.io/@divyansh14kr)
