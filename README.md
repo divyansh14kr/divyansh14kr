@@ -17,8 +17,11 @@
 - 🤝 I’m looking for help with **UI/UX**
 
 - 💬 Ask me about **Java, C and DSA**
-
+  
 - 📫 How to reach me **divyansh14kr@gmail.com**
+
+- 📄 [Check out my Resume](https://drive.google.com/file/d/1xQr72-RVEBdPdsRHpiZdqOwTaofdtptD/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
